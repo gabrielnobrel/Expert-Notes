@@ -23,41 +23,48 @@ Para executar a aplicação localmente, siga os passos abaixo:
 
 1. **Clonar o Repositório**: Clone este repositório em sua máquina local utilizando o seguinte comando:
 
-    ```
-    git clone https://github.com/gabrielnobrel/expertNotes.git
-    ```
+   ```
+   git clone https://github.com/gabrielnobrel/expertNotes.git
+   ```
 
 2. **Instalar Dependências**: Navegue até o diretório do projeto e instale as dependências utilizando o npm ou yarn:
 
-    ```
-    cd expertNotes
-    npm install
-    ```
+   ```
+   cd expertNotes
+   npm install
+   ```
 
-    ou
+   ou
 
-    ```
-    cd expertNotes
-    yarn install
-    ```
+   ```
+   cd expertNotes
+   yarn install
+   ```
 
 3. **Iniciar o Servidor de Desenvolvimento**: Após a instalação das dependências, inicie o servidor de desenvolvimento com o seguinte comando:
 
-    ```
-    npm start
-    ```
+   ```
+   npm start
+   ```
 
-    ou
+   ou
 
-    ```
-    yarn start
-    ```
+   ```
+   yarn start
+   ```
 
 4. **Acessar a Aplicação**: Acesse a aplicação no seu navegador através do seguinte endereço:
 
-    ```
-    http://localhost:3000
-    ```
+   ```
+   http://localhost:3000
+   ```
+
+## Screenshots
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="./src/.github/home.png" alt="Screenshot 1" width="400" style="border-right: 1px solid #ccc; padding-right: 20px;">
+    <img src="./src/.github/note.png" alt="Screenshot 2" width="400" style="padding-left: 20px;">
+</div>
 
 ## Contribuição
 
@@ -66,4 +73,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para repo
 Se você está reportando um problema, por favor, inclua o máximo de informações possível para que possamos entender e resolver o problema mais rapidamente.
 
 ## 👽Contato
+
 gabriel_nobresantos@hotmail.com
